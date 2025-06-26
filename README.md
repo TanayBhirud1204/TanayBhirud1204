@@ -1,16 +1,14 @@
 # 💫 Hi 👋, I'm Tanay Bhirud
 **AI Enthusiast | UI/UX Designer | Machine Learning Engineer | Data Science Enthusiast | Python & ML Libraries Expert | Data Analytics Power BI from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **tanaybhirud121104@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Artificial Intelligence and LLMs
+- 🌱 **I’m currently learning:** API and LLMs
+- 👯 **I’m looking to collaborate on:** AIML projects
+- 💬 **Ask me about:** Collaboration, AI and AI agents
+- 📫 **How to reach me:** tanaybhirud121104@gmail.com
+- ⚡ **Fun fact:** I Love AI and AI Loves me 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanay_bhirud1204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanay Bhirud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tanay Bhirud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanaybhirud121104@gmail.com) 
