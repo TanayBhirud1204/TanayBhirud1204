@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Tanay Bhirud
-**AAI Enthusiast | UI/UX Designer | Machine Learning Engineer | Data Science Enthusiast | Python & ML Libraries Expert | Data Analytics Power BI from India**
+**AI Enthusiast | UI/UX Designer | Machine Learning Engineer | Data Science Enthusiast | Python & ML Libraries Expert | Data Analytics Power BI from India**
 
 Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
